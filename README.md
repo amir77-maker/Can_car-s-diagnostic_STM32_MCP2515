@@ -1,5 +1,3 @@
-# Can_car-s-diagnostic_STM32_MCP2515
-
  MCP2515 CAN Driver for STM32F103C8T6
 
 This project demonstrates how to interface an STM32F103C8T6 (Blue Pill) with the MCP2515 CAN controller using SPI. It includes:
